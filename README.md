@@ -1,2 +1,3 @@
 # Arcade
-Scripts for my Mame Arcade
+Addon Scripts for my RetroPie Arcade.
+
